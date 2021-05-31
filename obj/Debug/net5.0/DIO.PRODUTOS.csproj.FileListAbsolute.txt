@@ -1,0 +1,16 @@
+C:\DIO.PRODUTOS\bin\Debug\net5.0\DIO.PRODUTOS.exe
+C:\DIO.PRODUTOS\bin\Debug\net5.0\DIO.PRODUTOS.deps.json
+C:\DIO.PRODUTOS\bin\Debug\net5.0\DIO.PRODUTOS.runtimeconfig.json
+C:\DIO.PRODUTOS\bin\Debug\net5.0\DIO.PRODUTOS.runtimeconfig.dev.json
+C:\DIO.PRODUTOS\bin\Debug\net5.0\DIO.PRODUTOS.dll
+C:\DIO.PRODUTOS\bin\Debug\net5.0\ref\DIO.PRODUTOS.dll
+C:\DIO.PRODUTOS\bin\Debug\net5.0\DIO.PRODUTOS.pdb
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.csprojAssemblyReference.cache
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.AssemblyInfoInputs.cache
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.AssemblyInfo.cs
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.csproj.CoreCompileInputs.cache
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.dll
+C:\DIO.PRODUTOS\obj\Debug\net5.0\ref\DIO.PRODUTOS.dll
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.pdb
+C:\DIO.PRODUTOS\obj\Debug\net5.0\DIO.PRODUTOS.genruntimeconfig.cache
